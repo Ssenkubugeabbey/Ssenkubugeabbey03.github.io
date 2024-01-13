@@ -1,0 +1,57 @@
+Certainly! Here's an example of file contents using code blocks:
+
+*Python Code File (example.py):*
+```python
+def greet(name):
+    print(f"Hello, {name}!")
+
+greet("John")
+```
+
+*JSON Configuration File (config.json):*
+```json
+{
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "username": "admin",
+    "password": "password123"
+  },
+  "api_key": "your-api-key-here"
+}
+```
+
+*Markdown Documentation File (README.md):*
+```markdown
+*My Project*
+
+This is a sample project that demonstrates the usage of various features.
+
+*Installation*
+
+1. Clone the repository.
+2. Run the setup script.
+3. Start the application.
+
+*Usage*
+
+To use the application, follow these steps:
+
+1. Open the application.
+2. Enter your credentials.
+3. Click on the "Submit" button.
+
+*License*
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+```
+
+*CSV Data File (data.csv):*
+```csv
+Name,Age,City
+John,25,New York
+Emily,32,London
+Michael,40,Sydney
+```
+
+In this example, each file's contents are enclosed within triple backticks, specifying the language for syntax highlighting in the code blocks. This formatting makes it easier to read and distinguish between different types of files and their contents.
