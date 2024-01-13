@@ -1,2 +1,5 @@
 # Ssenkubugeabbey033.github.io
-*my project 
+
+Welcome to my website. 
+ICT and other computer platforms 
+Enjoy your stay! 
